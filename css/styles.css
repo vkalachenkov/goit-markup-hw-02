@@ -83,6 +83,7 @@ h1 {
 
 
 .button {
+    font-family: inherit;
     color: var(--primary-white-color);
     background-color: var(--accent-color);
     
@@ -134,7 +135,7 @@ h1 {
 
 .box-name {
     font-weight: 500;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 1.19;
     letter-spacing: 0.03em;
     color: var(--title-tex-color);
@@ -166,7 +167,7 @@ h1 {
 .logo-fourth {
     color: var(--primary-white-color);
 }
-.address p {
+.address li {
     
     font-weight: 400;
     font-size: 14px;
@@ -185,7 +186,7 @@ h1 {
 }
 /* Portfolio Pagr*/
 .btn {
-    
+    font-family: inherit;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.62;
