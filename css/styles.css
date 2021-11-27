@@ -46,7 +46,7 @@ li {
     font-size: 14px;
     line-height: 1.14;
     letter-spacing: 0.02em;
-    color: var(--primary-text-color);
+    color: var(--title-tex-color);
 } 
 .list-nav .link.current {
     color: var(--accent-color);
@@ -177,7 +177,8 @@ h1 {
     color: var(--primary-white-color);
 }
 .address li {
-    
+
+    cursor: none;
     font-weight: 400;
     font-size: 14px;
     line-height: 1.71;
